@@ -1,4 +1,4 @@
-## Hi there 👋
+## Creating technolgies for a better kinder world 👋
 
 <!--
 **ITWASLYN/ITWASLYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
